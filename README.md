@@ -1,6 +1,6 @@
 # 🧐 The name's Sandid... Ahmad Sandid...
 
-<div align="center">
+<div>
 <img src="./assets/typing.gif" height="auto" width="100%' />
 </div>
                                                     
