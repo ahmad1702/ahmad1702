@@ -18,5 +18,3 @@ I'm always open to collaborating on exciting projects or discussing the latest i
 
 - Email: [ahmad1702@gmail.com](mailto:ahmad1702@gmail.com)
 - LinkedIn: [Ahmad Sandid](https://www.linkedin.com/in/ahmad-sandid-485b59164/)
-
-I look forward to connecting with you and creating impactful software solutions together!
